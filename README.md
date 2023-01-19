@@ -4,7 +4,7 @@ Soy de México, y tengo 22 años, estoy estudiando para convertirme en Front End
 Aquí esta mi repositorios de proyectos que he aprendido gracias a cursos, también se encuentran proyectos personales.
 - :neckbeard: Actualmente estoy aprendiendo ## JavaScript y BootStrap
 - :sunglasses: Lo que conozco... ## HTML5, CSS3, C, SASS, GULP.
-- :notes: Hobbies... ## Piano, Leer, Música
+- :notes: Hobbies... ## Piano, Leer, Música, Guitarra
 - :love_letter: Contacto... ## erick.campos.cortesti@gmail.com
 
 ### Links
